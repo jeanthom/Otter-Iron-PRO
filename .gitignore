@@ -8,15 +8,18 @@
 
 # Temporary files
 *.000
+*.sch-bak
 *.bak
 *.bck
 *.kicad_pcb-bak
+*.kicad_sch.lck
 *~
 _autosave-*
 *.tmp
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+*.zip
 
 # Netlist files (exported from Eeschema)
 *.net
